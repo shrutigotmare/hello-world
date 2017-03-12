@@ -1,3 +1,4 @@
+//Node class for Linked List
 public class Node
 {
 	int data;
